@@ -16,3 +16,7 @@ categories: cattum_party cattum game rpg
 <br>
 
 ## Linux version coming as soon as I test it
+<br>
+<a href="https://drive.google.com/file/d/1IG8U06hH5rB2qDpUhrpYO_cDxQkWb5ET/view?usp=share_link">Google Drive link</a>
+<br>
+Also available on the itch.io page!
